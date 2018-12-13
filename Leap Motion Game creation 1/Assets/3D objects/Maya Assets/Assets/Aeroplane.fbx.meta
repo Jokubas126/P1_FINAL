@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: c28adc686c06f3d49b6b5bf35d25f703
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Aeroplane:pCube1
+    100004: Aeroplane:pCube10
+    100006: Aeroplane:pCube11
+    100008: Aeroplane:pCube2
+    100010: Aeroplane:pCube3
+    100012: Aeroplane:pCube4
+    100014: Aeroplane:pCube5
+    100016: Aeroplane:pCube6
+    100018: Aeroplane:pCube7
+    100020: Aeroplane:pCube8
+    100022: Aeroplane:pCube9
+    100024: Aeroplane:pCylinder1
+    100026: Aeroplane:pCylinder2
+    100028: Aeroplane:pCylinder3
+    100030: Aeroplane:pSphere1
+    100032: Aeroplane:pTorus1
+    100034: Aeroplane:transform1
+    100036: Aeroplane:transform10
+    100038: Aeroplane:transform11
+    100040: Aeroplane:transform12
+    100042: Aeroplane:transform13
+    100044: Aeroplane:transform2
+    100046: Aeroplane:transform3
+    100048: Aeroplane:transform4
+    100050: Aeroplane:transform5
+    100052: Aeroplane:transform6
+    100054: Aeroplane:transform7
+    100056: Aeroplane:transform8
+    100058: Aeroplane:transform9
+    400000: //RootNode
+    400002: Aeroplane:pCube1
+    400004: Aeroplane:pCube10
+    400006: Aeroplane:pCube11
+    400008: Aeroplane:pCube2
+    400010: Aeroplane:pCube3
+    400012: Aeroplane:pCube4
+    400014: Aeroplane:pCube5
+    400016: Aeroplane:pCube6
+    400018: Aeroplane:pCube7
+    400020: Aeroplane:pCube8
+    400022: Aeroplane:pCube9
+    400024: Aeroplane:pCylinder1
+    400026: Aeroplane:pCylinder2
+    400028: Aeroplane:pCylinder3
+    400030: Aeroplane:pSphere1
+    400032: Aeroplane:pTorus1
+    400034: Aeroplane:transform1
+    400036: Aeroplane:transform10
+    400038: Aeroplane:transform11
+    400040: Aeroplane:transform12
+    400042: Aeroplane:transform13
+    400044: Aeroplane:transform2
+    400046: Aeroplane:transform3
+    400048: Aeroplane:transform4
+    400050: Aeroplane:transform5
+    400052: Aeroplane:transform6
+    400054: Aeroplane:transform7
+    400056: Aeroplane:transform8
+    400058: Aeroplane:transform9
+    2100000: lambert1
+    2300000: Aeroplane:pCube11
+    2300002: Aeroplane:pCylinder1
+    2300004: Aeroplane:pCylinder2
+    3300000: Aeroplane:pCube11
+    3300002: Aeroplane:pCylinder1
+    3300004: Aeroplane:pCylinder2
+    4300000: Aeroplane:pCylinder1
+    4300002: Aeroplane:pCylinder2
+    4300004: Aeroplane:pCube11
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
